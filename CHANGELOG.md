@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/google-cloud-kms/#history
 
+## [2.11.0](https://github.com/googleapis/python-kms/compare/v2.10.1...v2.11.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#230](https://github.com/googleapis/python-kms/issues/230)) ([fdf62ae](https://github.com/googleapis/python-kms/commit/fdf62ae3b3209a1215e0f2f2440add1f01d40907))
+
+
+### Documentation
+
+* **samples:** fix typo in verify_asymmetric_ec.py ([#227](https://github.com/googleapis/python-kms/issues/227)) ([3817d73](https://github.com/googleapis/python-kms/commit/3817d7390fddebd137c99865455f0ae145dbcf63))
+
 ### [2.10.1](https://www.github.com/googleapis/python-kms/compare/v2.10.0...v2.10.1) (2021-11-01)
 
 
